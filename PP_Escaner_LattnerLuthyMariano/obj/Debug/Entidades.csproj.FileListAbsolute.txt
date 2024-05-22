@@ -1,0 +1,2 @@
+C:\Users\maria\source\repos\PP_Escaner_LattnerLuthyMariano\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\PP_Escaner_LattnerLuthyMariano\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
